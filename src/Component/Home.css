@@ -1,0 +1,10 @@
+.wrapper {
+    margin: 0 auto;
+    background-color: #8BB4F7;
+    width: 70%;
+}
+
+.heading {
+    text-align: center;
+    color: grey;
+}
